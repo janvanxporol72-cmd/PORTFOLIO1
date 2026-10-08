@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(201, 245, 119);
+}
+
+
+
+
+Header{
+ text-align: center;
+ background-color: lightcoral;
+ padding: 100px;
+ border-radius: 20px;
+
+}
+
+nav{
+    background-color: lightyellow;
+    display:flex;
+    justify-content: center;
+    gap: 20px;
+    border-radius: 20px;
+    
+}
+
+.container{
+    display: flex;
+    border-radius: 20px;
+}
+
+section{
+    background-color: darkred;
+    padding: 100px;
+    width: 70%
+}
+
+aside{
+    background-color: lightcoral;
+    padding: 100px;
+    width: 30%;
+}
+
+footer{
+    background-color: lightyellow;
+    text-align: center;
+    padding: 1 0px;
+}
+
+.registration{
+    background-color: lightcoral;
+    padding: 20px;
+    border-radius: 20px;
+    max-width: 700px;
+    margin: auto;
+    box-shadow: 0 2px 6px yellow;
+
+}
+.subject{
+background-color: lightcoral;
+ text-align: center;
+ border: 1px solid #000;
+
+
+}
+
+.reportgrade{
+    
+    background-color: lightcoral;
+    padding: 20px;
+    border-radius: 20px;
+    max-width: 700px;
+    margin: auto;
+    box-shadow: 0 2px 6px yellow;
+    text-align: center;
+
+
+}
+caption{
+    background-color: darkred;
+    width: 200;
+   
+}
+
+.maydata{
+    background-color: lightcoral;
+}
+
+.profile{
+    background-color: lightyellow;
+    padding: 20px;
+}
+
+img{
+    border-radius: 1000px;
+    width: 200px;
+    padding: 20px;
+}
+
+
+
